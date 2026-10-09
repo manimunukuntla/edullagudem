@@ -1,0 +1,6 @@
+{
+  "name": "Edullagudem Devi Sharannavarathulu 2026 Lucky Draw",
+  "description": "Official registration and lucky draw token portal for Edullagudem Devi Sharannavarathulu 2026 (ఎదుల్లగూడెం దేవి శరన్నవరాత్రులు 2026 లక్కీ డ్రా).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
